@@ -1,16 +1,118 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Banner"/>
+</p>
 
-<!--
-**Theyashok/Theyashok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://i.ibb.co/XYSXd3j/footer.gif" alt="Welcome Banner" width="80%" />
+</div>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Yash Garg!</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C8A2C8&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+ML+Intern+%7C+Full+Stack+Learner;Open+Source+Contributor;400%2B+LeetCode+Solved;Driven+By+Impact+%F0%9F%9A%80" alt="Typing Animation">
+</div>
+
+<p align="center">
+  🔭 I’m currently working on <b>AI/ML projects</b> in agriculture, predictive maintenance & smart cities.<br>
+  🌱 Skilled in <b>React, Next.js, Python, Node.js, and Generative AI</b>.<br>
+  📖 Final year Computer Science Engineering student at <b>Vellore Institute of Technology (VIT), Vellore</b>.<br>
+  🎯 Goal: To build AI-powered products that solve real-world problems at scale.<br>
+  👨‍💻 Check out all my projects on 
+  <a href="https://github.com/yashgarg21" target="_blank"><b>GitHub</b></a>
+</p>
+
+<p align="center">
+  📫 <b>Contact me at:</b> <a href="mailto:yash.garg2022@vitstudent.ac.in">yash.garg2022@vitstudent.ac.in</a><br>
+  <i>Let’s collaborate or brainstorm on AI, coding, or impactful tech!</i>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+</p>
+
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> &ensp; Technical Arsenal</h3>
+
+<p align="center">
+
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Nest.js](https://img.shields.io/badge/-Nest.js-red?style=for-the-badge&logo=nestjs)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+
+### AI & ML
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-f7931e?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=for-the-badge&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=for-the-badge&logo=mysql)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render)
+
+### Tools & Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+</p>
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/yashgarg21">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashgarg21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgarg21&layout=compact&langs_count=8&theme=dark"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/L9W5cdh/goku.png" width="300px" alt="Goku Dev" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+</p>
+
+<h3 align="center">🌐 Connect With Me</h3>
+
+<div align="center">
+  <a href="mailto:yash.garg2022@vitstudent.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/yashgarg21/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/yashgarg21/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+</p>
