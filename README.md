@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Yash Garg!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C8A2C8&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+ML+Intern+%7C+Full+Stack+Learner;Open+Source+Contributor;400%2B+LeetCode+Solved;Driven+By+Impact+%F0%9F%9A%80" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C8A2C8&center=true&vCenter=true&width=800&height=50&lines=AI+Engineer+%7C+AI/ML+Intern+%7C+Full+Stack+Learner;Open+Source+Contributor;400%2B+LeetCode+Solved;Driven+By+Impact+%F0%9F%9A%80" alt="Typing Animation">
 </div>
 
 <p align="center">
