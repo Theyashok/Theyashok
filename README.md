@@ -18,11 +18,11 @@
   📖 Final year Computer Science Engineering student at <b>Vellore Institute of Technology (VIT), Vellore</b>.<br>
   🎯 Goal: To build AI-powered products that solve real-world problems at scale.<br>
   👨‍💻 Check out all my projects on 
-  <a href="https://github.com/yashgarg21" target="_blank"><b>GitHub</b></a>
+  <a href="https://github.com/Theyashok" target="_blank"><b>GitHub</b></a>
 </p>
 
 <p align="center">
-  📫 <b>Contact me at:</b> <a href="mailto:yash.garg2022@vitstudent.ac.in">yash.garg2022@vitstudent.ac.in</a><br>
+  📫 <b>Contact me at:</b> <a href="mailto:yashgargofficial18@gmail.com">yashgargofficial18@gmail.com</a><br>
   <i>Let’s collaborate or brainstorm on AI, coding, or impactful tech!</i>
 </p>
 
@@ -79,36 +79,21 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
 </p>
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/yashgarg21">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashgarg21&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgarg21&layout=compact&langs_count=8&theme=dark"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://i.ibb.co/L9W5cdh/goku.png" width="300px" alt="Goku Dev" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider">
+  <img src="https://images5.alphacoders.com/131/1317711.jpeg" width="100%" alt="Animated Divider">
 </p>
 
 <h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
-  <a href="mailto:yash.garg2022@vitstudent.ac.in">
+  <a href="mailto:yashgargofficial18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/yashgarg21/" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-garg-joyboy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/yashgarg21/" target="_blank">
+  <a href="https://leetcode.com/u/the_yash_21/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
 </div>
