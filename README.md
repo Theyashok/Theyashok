@@ -81,7 +81,7 @@
 
 
 <p align="center">
-  <img src="https://images5.alphacoders.com/131/1317711.jpeg" width="100%" alt="Animated Divider">
+  <img src="https://static.beebom.com/wp-content/uploads/2024/05/gear-5-featured-new.jpg?quality=75&strip=all" width="100%" alt="Animated Divider">
 </p>
 
 <h3 align="center">🌐 Connect With Me</h3>
