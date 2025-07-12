@@ -81,7 +81,7 @@
 
 
 <p align="center">
-  <img src="https://static.beebom.com/wp-content/uploads/2024/05/gear-5-featured-new.jpg?quality=75&strip=all" width="100%" alt="Animated Divider">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d9b9c9b2-b80f-4dd6-b0f9-5191aed634c9/dhl9w0q-8ec5f194-e4a9-497d-a907-2dd712cc6824.jpg/v1/fill/w_1194,h_669,q_70,strp/sasuke_vs_naruto___wallpaper_4k_by_jmasaryk_dhl9w0q-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiJcL2ZcL2Q5YjljOWIyLWI4MGYtNGRkNi1iMGY5LTUxOTFhZWQ2MzRjOVwvZGhsOXcwcS04ZWM1ZjE5NC1lNGE5LTQ5N2QtYTkwNy0yZGQ3MTJjYzY4MjQuanBnIiwid2lkdGgiOiI8PTM4NTQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.W_yqox_6Ig7XhWr6m8UGSJ-XE6AiK68C-rt8BQ2XtMs" width="100%" alt="Animated Divider">
 </p>
 
 <h3 align="center">🌐 Connect With Me</h3>
